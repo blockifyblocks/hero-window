@@ -1,0 +1,9 @@
+{
+	"name": "hero-window",
+	"description": "Full-width hero scene for displaying images inside a UI window.",
+	"type": "content",
+	"template": {
+		"@type": "Thing",
+		"image": "holder.js/100%x512"
+	}
+}
